@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CommandString</key>
+	<string>cd gol ; python main.py</string>
+	<key>CursorType</key>
+	<integer>1</integer>
+	<key>ProfileCurrentVersion</key>
+	<real>2.0699999999999998</real>
+	<key>RunCommandAsShell</key>
+	<false/>
+	<key>ShowRepresentedURLInTitle</key>
+	<true/>
+	<key>ShowRepresentedURLPathInTitle</key>
+	<true/>
+	<key>WindowTitle</key>
+	<string>John Conway's Game of Life in Python</string>
+	<key>columnCount</key>
+	<integer>73</integer>
+	<key>name</key>
+	<string>Game of Life</string>
+	<key>rowCount</key>
+	<integer>50</integer>
+	<key>type</key>
+	<string>Window Settings</string>
+</dict>
+</plist>
